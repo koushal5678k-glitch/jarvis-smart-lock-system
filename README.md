@@ -31,3 +31,13 @@ An AI-powered authentication system that combines Voice Recognition and Face Rec
 - Liveness Detection
 - Mobile Deployment
 - Smart Home Integration
+- ## Project Demo
+
+### Face Recognition
+![Face Recognition](face_recognition_success.png)
+
+### Unknown User Detection
+![Unknown User](unknown_user_detection.png)
+
+### Smart Greeting
+![Greeting](smart_greeting.png)
