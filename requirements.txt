@@ -1,0 +1,5 @@
+opencv-contrib-python
+SpeechRecognition
+pyttsx3
+pyaudio
+numpy
